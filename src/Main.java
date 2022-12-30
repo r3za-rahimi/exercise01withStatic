@@ -55,5 +55,13 @@ public class Main {
         }
 
 
+
+        //to do
+//
+//        two method recercive
+//                get number from user
+//                sum 1 till number
+//                multiple 1 till number
+
     }
 }
